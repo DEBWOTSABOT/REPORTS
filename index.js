@@ -16,7 +16,7 @@ app.use(cors());
 app.use(express.json());
 
 // const databaseURL =
-//   "mongodb+srv://BackendUser:rUOIpCKLc0oVpmtw@clusterkreupai.imb19.mongodb.net/Quotes-management?retryWrites=true&w=majority&appName=ClusterKreupAI";
+//   "mongodb+srv://BackendUser:rUOIpCKLc0oVpmtw@clusterkreupai.imb19.mongodb.net/Reports?retryWrites=true&w=majority&appName=ClusterKreupAI";
 const databaseURL = "mongodb://localhost:27017/REPORTS";
 // Database connection
 mongoose
