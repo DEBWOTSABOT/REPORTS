@@ -1,0 +1,32 @@
+[
+  {
+    "status": "Paid",
+    "account": "Account1",
+    "amount": 15000,
+    "dateCreated": "2023-08-01T10:00:00Z"
+  },
+  {
+    "status": "Unpaid",
+    "account": "Account2",
+    "amount": 20000,
+    "dateCreated": "2023-08-15T12:00:00Z"
+  },
+  {
+    "status": "Paid",
+    "account": "Account3",
+    "amount": 25000,
+    "dateCreated": "2023-08-20T14:00:00Z"
+  },
+  {
+    "status": "Overdue",
+    "account": "Account4",
+    "amount": 30000,
+    "dateCreated": "2023-09-01T09:00:00Z"
+  },
+  {
+    "status": "Unpaid",
+    "account": "Account5",
+    "amount": 50000,
+    "dateCreated": "2023-09-10T16:00:00Z"
+  }
+]

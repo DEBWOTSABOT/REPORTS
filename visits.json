@@ -1,0 +1,42 @@
+[
+  {
+    "lead": "Lead1",
+    "contact": "Contact1",
+    "prospect": "Prospect1",
+    "pagesVisited": 5,
+    "region": "East",
+    "dateCreated": "2023-09-01T10:00:00Z"
+  },
+  {
+    "lead": "Lead2",
+    "contact": "Contact2",
+    "prospect": "Prospect2",
+    "pagesVisited": 10,
+    "region": "West",
+    "dateCreated": "2023-09-02T11:00:00Z"
+  },
+  {
+    "lead": "Lead3",
+    "contact": "Contact3",
+    "prospect": "Prospect3",
+    "pagesVisited": 8,
+    "region": "North",
+    "dateCreated": "2023-09-05T09:30:00Z"
+  },
+  {
+    "lead": "Lead4",
+    "contact": "Contact4",
+    "prospect": "Prospect4",
+    "pagesVisited": 6,
+    "region": "South",
+    "dateCreated": "2023-09-08T13:15:00Z"
+  },
+  {
+    "lead": "Lead5",
+    "contact": "Contact5",
+    "prospect": "Prospect5",
+    "pagesVisited": 12,
+    "region": "East",
+    "dateCreated": "2023-09-10T14:45:00Z"
+  }
+]

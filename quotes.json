@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "Proposal",
+    "account": "Account1",
+    "amount": 15000,
+    "dateCreated": "2023-09-01T10:30:00Z"
+  },
+  {
+    "stage": "Negotiation",
+    "account": "Account2",
+    "amount": 25000,
+    "dateCreated": "2023-09-05T12:00:00Z"
+  },
+  {
+    "stage": "Closed Won",
+    "account": "Account3",
+    "amount": 35000,
+    "dateCreated": "2023-09-10T14:20:00Z"
+  },
+  {
+    "stage": "Negotiation",
+    "account": "Account1",
+    "amount": 20000,
+    "dateCreated": "2023-09-15T16:15:00Z"
+  },
+  {
+    "stage": "Proposal",
+    "account": "Account4",
+    "amount": 5000,
+    "dateCreated": "2023-09-02T09:30:00Z"
+  }
+]

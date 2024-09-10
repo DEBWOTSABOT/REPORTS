@@ -1,0 +1,47 @@
+[
+  {
+    "salesperson": "John Doe",
+    "lead": "Lead1",
+    "account": "Account1",
+    "locality": "New York",
+    "plannedDate": "2023-09-05T11:00:00Z",
+    "realizedDate": "2023-09-05T11:30:00Z",
+    "checkInType": "Lead"
+  },
+  {
+    "salesperson": "Jane Smith",
+    "lead": "Lead2",
+    "account": "Account2",
+    "locality": "Los Angeles",
+    "plannedDate": "2023-09-10T13:00:00Z",
+    "realizedDate": "2023-09-10T13:15:00Z",
+    "checkInType": "Account"
+  },
+  {
+    "salesperson": "Chris Green",
+    "lead": "Lead3",
+    "account": "Account3",
+    "locality": "Chicago",
+    "plannedDate": "2023-09-15T15:00:00Z",
+    "realizedDate": "2023-09-15T15:45:00Z",
+    "checkInType": "Locality"
+  },
+  {
+    "salesperson": "Jane Smith",
+    "lead": "Lead4",
+    "account": "Account4",
+    "locality": "New York",
+    "plannedDate": "2023-09-20T10:30:00Z",
+    "realizedDate": "2023-09-20T11:00:00Z",
+    "checkInType": "Lead"
+  },
+  {
+    "salesperson": "John Doe",
+    "lead": "Lead5",
+    "account": "Account5",
+    "locality": "Boston",
+    "plannedDate": "2023-09-25T09:00:00Z",
+    "realizedDate": null,
+    "checkInType": "Account"
+  }
+]
