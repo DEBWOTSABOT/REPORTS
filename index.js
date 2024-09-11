@@ -6,6 +6,8 @@ import salesMetricsRoutes from "./routes/salesMetricsRoutes.js";
 import meetingRoutes from "./routes/meetingRoutes.js";
 import invoiceRoutes from "./routes/invoiceRoutes.js";
 import visitRoutes from "./routes/visitRoutes.js";
+import accountRoutes from "./routes/accountRoutes.js";
+import contactRoutes from "./routes/contactRoutes.js";
 import cors from "cors";
 
 const app = express();
@@ -35,6 +37,8 @@ app.use("/api", salesMetricsRoutes);
 app.use("/api", meetingRoutes);
 app.use("/api", invoiceRoutes);
 app.use("/api", visitRoutes);
+app.use("/api", accountRoutes); 
+app.use("/api", contactRoutes);
 
 app.listen(port, () => {
   console.log(`Server running on port:${port}`);
